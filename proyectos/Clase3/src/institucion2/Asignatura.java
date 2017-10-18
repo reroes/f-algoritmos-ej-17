@@ -3,7 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package institucion;
+package institucion2;
+
 
 /**
  *
@@ -13,6 +14,10 @@ public class Asignatura {
     private String nombre;
     private int creditos;
     
+    public Asignatura(String n, int cred){
+        nombre = n;
+        creditos = cred;
+    }
     public void establecer_nombre(String n){
         nombre = n;
     }
