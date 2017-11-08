@@ -9,6 +9,7 @@ package calificacion;
  *
  * @author reroes
  */
+
 public class Calificacion {
 
     private String nombre_asignatura;
