@@ -1,0 +1,9 @@
+
+
+Asignatura
+
+AsignaturaPresencial
+numero_horas
+
+AsignaturaDistancia
+numero_creditos
