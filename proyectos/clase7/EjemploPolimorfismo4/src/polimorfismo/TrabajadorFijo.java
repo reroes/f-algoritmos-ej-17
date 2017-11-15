@@ -11,4 +11,11 @@ package polimorfismo;
  */
 public class TrabajadorFijo extends Trabajador{
     
+    public TrabajadorFijo(String n, String a){
+        super(n,a);
+    }
+    @Override
+    public double sueldo_trabajador(){
+        return 0.0;
+    }
 }

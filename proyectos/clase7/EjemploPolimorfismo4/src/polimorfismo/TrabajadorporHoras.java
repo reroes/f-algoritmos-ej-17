@@ -9,6 +9,14 @@ package polimorfismo;
  *
  * @author reroes
  */
-public class TrabajadorporHoras {
+public class TrabajadorporHoras extends Trabajador{
     
+    public TrabajadorporHoras(String n, String a){
+        super(n,a);
+    }
+    
+    @Override
+    public double sueldo_trabajador(){
+        return 10.0;
+    }
 }
