@@ -3,20 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package polimorfismo;
+package manejoexcepciones;
 
 /**
  *
  * @author reroes
  */
-public class TrabajadorFijo extends Trabajador{
-    
-    public TrabajadorFijo(String n, String a){
-        super(n,a);
+public class ManejoExcepciones {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
     }
     
-    @Override
-    public double sueldo_trabajador(){
-        return 0.0;
-    }
 }
