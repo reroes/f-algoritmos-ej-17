@@ -3,20 +3,21 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/reroes/Documentos/EjemplosProgramacionAlgoritmos-oct-feb-2017/clases/clase7/ManejoExcepciones/src/manejotres/DivisionEntreCeroConManejoDeExcepciones2.java</file>
-            <file>file:/home/reroes/Documentos/EjemplosProgramacionAlgoritmos-oct-feb-2017/clases/clase7/ManejoExcepciones/src/manejoseis/Ejecutor.java</file>
-            <file>file:/home/reroes/Documentos/EjemplosProgramacionAlgoritmos-oct-feb-2017/clases/clase7/ManejoExcepciones/src/manejocinco/Ejecutor.java</file>
-            <file>file:/home/reroes/Documentos/EjemplosProgramacionAlgoritmos-oct-feb-2017/clases/clase7/ManejoExcepciones/src/manejotres/DivisionEntreCeroConManejoDeExcepciones.java</file>
-            <file>file:/home/reroes/Documentos/EjemplosProgramacionAlgoritmos-oct-feb-2017/clases/clase7/ManejoExcepciones/src/manejoexcepciones/DivisionEntreCeroSinManejoDeExcepciones.java</file>
-            <file>file:/home/reroes/Documentos/EjemplosProgramacionAlgoritmos-oct-feb-2017/clases/clase7/ManejoExcepciones/src/manejocinco/Operaciones.java</file>
-            <file>file:/home/reroes/Documentos/EjemplosProgramacionAlgoritmos-oct-feb-2017/clases/clase7/ManejoExcepciones/src/manejoexcepciones/ManejoExcepciones.java</file>
-            <file>file:/home/reroes/Documentos/EjemplosProgramacionAlgoritmos-oct-feb-2017/clases/clase7/ManejoExcepciones/src/manejoseis/Persona.java</file>
-            <file>file:/home/reroes/Documentos/EjemplosProgramacionAlgoritmos-oct-feb-2017/clases/clase7/ManejoExcepciones/src/manejosiete/Persona.java</file>
-            <file>file:/home/reroes/Documentos/EjemplosProgramacionAlgoritmos-oct-feb-2017/clases/clase7/ManejoExcepciones/src/manejodos/DivisionEntreCeroConManejoDeExcepciones.java</file>
-            <file>file:/home/reroes/Documentos/EjemplosProgramacionAlgoritmos-oct-feb-2017/clases/clase7/ManejoExcepciones/src/manejosiete/Ejecutor.java</file>
-            <file>file:/home/reroes/Documentos/EjemplosProgramacionAlgoritmos-oct-feb-2017/clases/clase7/ManejoExcepciones/src/manejocuatro/Ejecutor.java</file>
-            <file>file:/home/reroes/Documentos/EjemplosProgramacionAlgoritmos-oct-feb-2017/clases/clase7/ManejoExcepciones/src/manejotres/DivisionEntreCeroConManejoDeExcepciones3.java</file>
-            <file>file:/home/reroes/Documentos/EjemplosProgramacionAlgoritmos-oct-feb-2017/clases/clase7/ManejoExcepciones/src/manejocuatro/Operaciones.java</file>
+            <file>file:/home/reroes/Documentos/clases-programacion-algoritmos-2017/f-algoritmos-ej-17/proyectos/clase8/ManejoExcepciones/src/manejoexcepciones/ManejoExcepciones.java</file>
+            <file>file:/home/reroes/Documentos/clases-programacion-algoritmos-2017/f-algoritmos-ej-17/proyectos/clase8/ManejoExcepciones/src/manejoseis/Ejecutor.java</file>
+            <file>file:/home/reroes/Documentos/clases-programacion-algoritmos-2017/f-algoritmos-ej-17/proyectos/clase8/ManejoExcepciones/src/manejosiete/Ejecutor.java</file>
+            <file>file:/home/reroes/Documentos/clases-programacion-algoritmos-2017/f-algoritmos-ej-17/proyectos/clase8/ManejoExcepciones/src/manejotres/DivisionEntreCeroConManejoDeExcepciones.java</file>
+            <file>file:/home/reroes/Documentos/clases-programacion-algoritmos-2017/f-algoritmos-ej-17/proyectos/clase8/ManejoExcepciones/src/manejosiete/Persona.java</file>
+            <file>file:/home/reroes/Documentos/clases-programacion-algoritmos-2017/f-algoritmos-ej-17/proyectos/clase8/ManejoExcepciones/src/manejocuatro/Operaciones.java</file>
+            <file>file:/home/reroes/Documentos/clases-programacion-algoritmos-2017/f-algoritmos-ej-17/proyectos/clase8/ManejoExcepciones/src/manejoseis/Persona.java</file>
+            <file>file:/home/reroes/Documentos/clases-programacion-algoritmos-2017/f-algoritmos-ej-17/proyectos/clase8/ManejoExcepciones/src/manejocuatro/Ejecutor.java</file>
+            <file>file:/home/reroes/Documentos/clases-programacion-algoritmos-2017/f-algoritmos-ej-17/proyectos/clase8/ManejoExcepciones/src/manejoexcepciones/DivisionEntreCeroSinManejoDeExcepciones.java</file>
+            <file>file:/home/reroes/Documentos/clases-programacion-algoritmos-2017/f-algoritmos-ej-17/proyectos/clase8/ManejoExcepciones/src/manejotres/DivisionEntreCeroConManejoDeExcepciones3.java</file>
+            <file>file:/home/reroes/Documentos/clases-programacion-algoritmos-2017/f-algoritmos-ej-17/proyectos/clase8/ManejoExcepciones/src/manejotres/DivisionEntreCeroConManejoDeExcepciones2.java</file>
+            <file>file:/home/reroes/Documentos/clases-programacion-algoritmos-2017/f-algoritmos-ej-17/proyectos/clase8/ManejoExcepciones/src/manejocinco/Ejecutor.java</file>
+            <file>file:/home/reroes/Documentos/clases-programacion-algoritmos-2017/f-algoritmos-ej-17/proyectos/clase8/ManejoExcepciones/test/manejosiete/PersonaTest.java</file>
+            <file>file:/home/reroes/Documentos/clases-programacion-algoritmos-2017/f-algoritmos-ej-17/proyectos/clase8/ManejoExcepciones/src/manejodos/DivisionEntreCeroConManejoDeExcepciones.java</file>
+            <file>file:/home/reroes/Documentos/clases-programacion-algoritmos-2017/f-algoritmos-ej-17/proyectos/clase8/ManejoExcepciones/src/manejocinco/Operaciones.java</file>
         </group>
     </open-files>
 </project-private>
