@@ -1,0 +1,3 @@
+30 rr ee 10,20
+41 rolando elizalde 12,20
+20 rrr eee 10,20
