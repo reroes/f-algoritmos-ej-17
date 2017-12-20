@@ -1,0 +1,4 @@
+registro.getCuenta() registro.getNombre() registro.getSaldo()
+registro.getCuenta() registro.getNombre() registro.getSaldo()
+registro.getCuenta() registro.getNombre() registro.getSaldo()
+registro.getCuenta() registro.getNombre() registro.getSaldo()
