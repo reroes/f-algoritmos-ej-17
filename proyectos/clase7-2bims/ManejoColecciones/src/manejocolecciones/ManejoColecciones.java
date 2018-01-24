@@ -23,8 +23,8 @@ public class ManejoColecciones {
         // TODO code application logic here
         ArrayList<Estudiante> lista = new ArrayList<>();
 
-        lista.add(new Estudiante("René", "Elizalde", 30, 100.2));
-        lista.add(new Estudiante("Janeth", "Torres", 25, 200.2));
+        lista.add(new Estudiante("Marco", "Zamora", 30, 100.2));
+        lista.add(new Estudiante("Andrea", "Valladares", 25, 200.2));
         lista.add(new Estudiante("Luis", "Alcivar", 15, 30.2));
         
         System.out.println("Ingrese opicón: 1) Ascendente por nombre. 2) Descendente por apellido. 3) ascendente por edad");
